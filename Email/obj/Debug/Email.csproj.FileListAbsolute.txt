@@ -1,0 +1,11 @@
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\bin\Debug\Email.exe.config
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\bin\Debug\Email.exe
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\bin\Debug\Email.pdb
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.csproj.AssemblyReference.cache
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.Email.resources
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.Properties.Resources.resources
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.csproj.GenerateResource.cache
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.exe
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.pdb
+C:\Users\evett\Documents\school\4A\MSCI 445\Email\Email\obj\Debug\Email.Password.resources
